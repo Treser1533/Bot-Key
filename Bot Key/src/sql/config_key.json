@@ -1,0 +1,17 @@
+{
+
+    "embed_color": {
+        "blue": "#2A3A75",
+        "invisible": "#232428"
+    },
+
+    "bot": {
+        "Title": "Zrya Vendas !"
+    },
+
+    "MongoDB": {
+        "URL": "mongodb+srv://Store:5ufpNN77Hh1383l0@store.m2mvqzx.mongodb.net/?retryWrites=true&w=majority"
+    }
+
+
+}
