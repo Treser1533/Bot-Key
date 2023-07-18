@@ -6,11 +6,11 @@
     },
 
     "bot": {
-        "Title": "Zrya Vendas !"
+        "Title": "TITULO"
     },
 
     "MongoDB": {
-        "URL": "mongodb+srv://Store:5ufpNN77Hh1383l0@store.m2mvqzx.mongodb.net/?retryWrites=true&w=majority"
+        "URL": "SUA URL DO MONGO AQ"
     }
 
 
